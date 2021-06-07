@@ -1,0 +1,6 @@
+.lein-failures
+report/
+store/
+pom.xml
+.lein-repl-history
+.lein-env

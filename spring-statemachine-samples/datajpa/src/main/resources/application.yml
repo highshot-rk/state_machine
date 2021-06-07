@@ -1,0 +1,10 @@
+logging:
+  level:
+    root: INFO
+security:
+  basic:
+    enabled: false
+spring:
+  h2:
+    console:
+      enabled: true

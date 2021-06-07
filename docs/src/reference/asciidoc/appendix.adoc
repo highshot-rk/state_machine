@@ -1,0 +1,12 @@
+[[appendices]]
+= Appendices
+
+:numbered!:
+
+include::appendix-support.adoc[]
+
+include::appendix-concepts.adoc[]
+
+include::appendix-distributedpaper.adoc[]
+
+include::appendix-reactormigration.adoc[]
